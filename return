@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9ccbf3f..5033578 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,7 +6,7 @@[m
+   <title>TODO</title>[m
+ </head>[m
+ <body>[m
+[31m-  [m
+[32m+[m[32m  new feature is added in these[m[41m [m
+   <script src="todo.js"></script>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
